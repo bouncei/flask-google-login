@@ -12,11 +12,11 @@
   </a>
 </p>
 
-> A A Google Login for your Python (Flask) Web Application. By using a third party like Google to authenticate users, you allow users to save a lot of time and you save time with your web development. Also, you reduce the time you have to spend developing complex flask authentication systems. 
+> A Google Login for your Python (Flask) Web Application. By using a third party like Google to authenticate users, you allow users to save a lot of time and you save time with your web development. Also, you reduce the time you have to spend developing complex flask authentication systems. 
 
 ### 🏠 [Homepage](https://github.com/bouncei/flask-google-login)
 
-### ✨ [Demo](https://www.youtube.com/watch?v=FKgJEfrhU1E)
+
 
 ## Install
 
